@@ -3,8 +3,9 @@ main ();
 {
 int x,y;
 printf ('vvedite x');
-scanf (%d,&y);
+scanf (%f,&y);
 printf (%d,&x);
 y=x^3+12;
+y\2;
 }
-end/
+end
