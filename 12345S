@@ -7,4 +7,4 @@ scanf (%d,&y);
 printf (%d,&x);
 y=x^3+12;
 }
-end
+end/
